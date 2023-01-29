@@ -1,3 +1,3 @@
 FROM ubuntu
 RUN apt update
-CMD ["echo", "Hello World . !!!"]
+CMD ["echo", "Hello KPT MANGALORE. !!!"]
